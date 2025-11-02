@@ -6,7 +6,7 @@ This project represents my learning journey in Core Java.
 
 
 
-\- \*\*`JavaVendingMachineOriginal.java`\*\* — My original version of the vending machine project, written as I was exploring loops, arrays, and conditionals.  
+\- \*\*`JavaVendingMachine.java`\*\* — My original version of the vending machine project, written as I was exploring loops, arrays, and conditionals.  
 
 \- \*\*`JavaVendingMachineRefined.java`\*\* — The improved version built after revisiting concepts and getting feedback from ChatGPT by OpenAI.
 
