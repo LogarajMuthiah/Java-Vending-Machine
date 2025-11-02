@@ -1,13 +1,13 @@
 package Basics;
 import java.util.Scanner;
 
-public class Task2 {
+public class JavaVendingMachine {
 	String[] items = new String[5];  // Field initialization – allowed
 	Scanner sc=new Scanner(System.in);
 	int selectedoption;
 
 	
-	Task2(){
+	JavaVendingMachine(){
 		items[0] = "Egg puffs - 20Rs"; 
 		items[1] = "Tea - 15Rs"; 
 		items[2] = "Coffee - 20Rs"; 
@@ -98,7 +98,7 @@ public class Task2 {
 
 			Stop only when the suser says no.*/
 		while(true) {
-		 Task2 obj=new Task2();
+		 JavaVendingMachine obj=new JavaVendingMachine();
 		}
 	
 	}
